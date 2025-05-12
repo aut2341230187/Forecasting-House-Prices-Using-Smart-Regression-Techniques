@@ -108,6 +108,11 @@ Evaluation Metrics:
 - Feature importance bar charts
 - Distribution plots of predicted vs actual prices
 
+## House Prediction 
+
+![Image](https://github.com/user-attachments/assets/f913f812-7005-41ba-b872-577e888646d2)
+
+
 ---
 
 ## 👨‍💼 Team Members & Contributions
